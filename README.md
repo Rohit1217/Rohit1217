@@ -14,6 +14,4 @@ Working on: Generative Models · LLM Training · ML Systems
 - **[CS336 LLM]** — coming soon
 
 ### Background
-Previously built production distributed training (PyTorch DDP) and 
-CUDA inference systems for high-resolution image processing.
-Currently researching flow models for my thesis.
+Built production ML systems at Fotografik — distributed training (PyTorch DDP, 3-4 bare-metal RTX 3090s), multi-model inference pipeline (Grounding DINO → Sapiens → retouching ensemble), 2M+ images processed in production.
