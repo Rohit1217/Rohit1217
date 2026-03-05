@@ -1,7 +1,6 @@
 ## Rohit Singh
 M.Tech Artificial Intelligence @ IISc Bangalore (2027)
-GATE DA AIR 10 (2025) 
-- ML Engineer @ Fotografik Jul'24–Jul'25 — production work on private repositories
+GATE DA AIR 10 (2025) | ML Engineer @ Fotografik Jul'24–Jul'25 — production work on private repositories
 
 Working on: Generative Models · LLM Training · ML Systems
 
