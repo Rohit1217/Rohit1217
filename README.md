@@ -16,5 +16,4 @@ Agentic frameworks
   STE, raster-scan Transformer prior over codebook indices
 - **DDPM/DDIM** — implemented from mathematical definition, no diffusion libraries · 
   linear noise schedule, DDPM and DDIM sampling, quality-speed tradeoff analysis
-- **Two-Tower RecSys** — coming soon
-- **LLM from scratch** — coming soon
+
